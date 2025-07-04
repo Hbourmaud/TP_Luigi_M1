@@ -11,7 +11,7 @@
 
 **Actions:**
 - **Flash (B)** Indicate by an left bottom icon
-- **Capture ():** Indicate by an left bottom progress bar
+- **Capture (A):** Indicate by an left bottom progress bar
 ---
 
 ## Ghost AI Behavior
